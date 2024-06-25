@@ -1,7 +1,7 @@
-[![MasterHead](https://www.mygreatlearning.com/blog/wp-content/uploads/2019/09/What-is-data-science-2.jpg)]
+[![MasterHead](https://camo.githubusercontent.com/f5a8ba4f28fe3ec8d5eb73dfa2303873b5d7122fb1ba08a5946e24d6c13e82c4/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4334443132415145536a37322d733567454b672f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313632363735333836373131303f653d3231343734383336343726763d6265746126743d4b6637594175775a74794347594c4e63682d4d676335654f432d376837754c5f646e424149677341465251)]
 <h1 align="center">Hi 👋, I'm Aritra Bhattacharya</h1>
 <h3 align="center">A passionate Learner for Data Science and Analytics and also interested in Advanced Technology from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://www.mygreatlearning.com/blog/wp-content/uploads/2019/09/What-is-data-science-2.jpg)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aritra026&label=Profile%20views&color=0e75b6&style=flat" alt="aritra026" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aeroxassasin" target="blank"><img src="https://img.shields.io/twitter/follow/aeroxassasin?logo=twitter&style=for-the-badge" alt="aeroxassasin" /></a> </p>
