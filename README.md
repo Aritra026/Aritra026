@@ -1,14 +1,14 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)]
 <h1 align="center">Hi 👋, I'm Aritra Bhattacharya</h1>
-<h3 align="center">A passionate Full stack Development as well as a keen learner of AI|ML from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<h3 align="center">A passionate Learner for Data Science and Analytics and also interested in Advanced Technology from India</h3>
+<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://www.mygreatlearning.com/blog/wp-content/uploads/2019/09/What-is-data-science-2.jpg)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aritra026&label=Profile%20views&color=0e75b6&style=flat" alt="aritra026" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aeroxassasin" target="blank"><img src="https://img.shields.io/twitter/follow/aeroxassasin?logo=twitter&style=for-the-badge" alt="aeroxassasin" /></a> </p>
 
 - 🔭 I’m currently working on **Aim Seeker**
 
-- 🌱 I’m currently learning **MERN, Android Development**
+- 🌱 I’m currently learning **Data Analysis,( Excel, Power Bi, Python, SQl)**
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Artificial Intelligence**
 
